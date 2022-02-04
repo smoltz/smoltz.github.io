@@ -2,13 +2,13 @@
 <channel>
 <title>Caduceus Wild Podcast</title>
 <link>https://soundcloud.com/caduceuswildpod</link>
-<description>Caduceus Wild is a medical podcast focused on the always fascinating, often frightening, and occasionally fantastic aspects of medicine as viewed through the lens of case reports both famous and forgotten./description>
+<description>Caduceus Wild is a medical podcast focused on the always fascinating, often frightening, and occasionally fantastic aspects of medicine as viewed through the lens of case reports both famous and forgotten.</description>
 <atom:link href="http://caduceuswild.com/" rel="self" type="application/rss+xml"/>
 <itunes:owner>
 <itunes:name>Caduceus Wild Podcast</itunes:name>
 <itunes:email>support@patreon.com</itunes:email>
 </itunes:owner>
-<itunes:author>American Exception</itunes:author>
+<itunes:author>Caduceus Wild Podcast</itunes:author>
 <itunes:image href="https://raw.githubusercontent.com/smoltz/smoltz.github.io/main/cad.jpg"/>
 <googleplay:block>yes</googleplay:block>
 <itunes:block>Yes</itunes:block>
