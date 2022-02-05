@@ -1,0 +1,32 @@
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0" version="2.0">
+<channel>
+<title>Caduceus Wild Podcast</title>
+<link>https://soundcloud.com/caduceuswildpod</link>
+<description>Caduceus Wild is a medical podcast focused on the always fascinating, often frightening, and occasionally fantastic aspects of medicine as viewed through the lens of case reports both famous and forgotten.</description>
+<atom:link href="http://caduceuswild.com/" rel="self" type="application/rss+xml"/>
+<itunes:owner>
+<itunes:name>Caduceus Wild Podcast</itunes:name>
+<itunes:email>support@patreon.com</itunes:email>
+</itunes:owner>
+<itunes:author>Caduceus Wild Podcast</itunes:author>
+<itunes:image href="https://raw.githubusercontent.com/smoltz/smoltz.github.io/main/cad.jpg"/>
+<googleplay:block>yes</googleplay:block>
+<itunes:block>Yes</itunes:block>
+<language>en-US</language>
+<pubDate>Fri, 04 Feb 2022 09:27:12 GMT</pubDate>
+<lastBuildDate>Fri, 04 Feb 2022 09:27:12 GMT</lastBuildDate>
+<image>
+<url>https://raw.githubusercontent.com/smoltz/smoltz.github.io/main/cad.jpg</url>
+<title>Caduceus Wild Podcast</title>
+<link>http://caduceuswild.com/</link>
+</image>
+<item>
+<title>Episode 1 - P O S T E G G S</title>
+<link>https://soundcloud.com/caduceuswildpod/episode-1-p-o-s-t-e-g-g-s</link>
+<description>Join MedTwitter's Screaming Pectoriloquy (@caulimovirus) and hyper-responsible pre-med student Thomas Knotts (@Pathologuy2) as we discuss an unfortunate case of toxic hospital eggs and the hundreds of patients who unwittingly ingested them.</description>
+<enclosure url="https://github.com/smoltz/smoltz.github.io/blob/main/cad/ep1.mp3" type="audio/mpeg"/>
+<guid isPermaLink="false">59697178</guid>
+<pubDate>Wed, 01 Dec 2021 03:13:19 GMT</pubDate>
+</item>
+</channel>
+</rss>
